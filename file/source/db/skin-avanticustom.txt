@@ -1,0 +1,64 @@
+a:1:{s:4:"bars";a:6:{i:0;a:22:{s:5:"class";s:11:"controls-bg";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:0:"";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"100%";s:6:"height";s:4:"40px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:1:"0";s:5:"right";s:4:"auto";s:6:"bottom";s:1:"0";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:21:"rgba(50, 50, 50, 0.7)";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:1;a:22:{s:5:"class";s:33:"play-btn play-btn-for-skin-avanti";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:505:"<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13.75px" height="15.812px" viewBox="-1.5 -1.844 13.75 15.812" enable-background="new -1.5 -1.844 13.75 15.812" xml:space="preserve">
+<g>
+	<path fill="#D2D6DB" d="M11.363,5.662c0.603,0.375,0.592,0.969-0.028,1.317L0.049,13.291c-0.624,0.351-1.131,0.05-1.131-0.664
+		V-0.782c0-0.711,0.495-0.988,1.1-0.611L11.363,5.662z"></path>
+</g>
+</svg>                                ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"16px";s:6:"height";s:4:"15px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"14px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"14px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:7:"#D2D6DB";s:11:"hover_color";s:7:"#59c8ef";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:2;a:22:{s:5:"class";s:35:"pause-btn pause-btn-for-skin-avanti";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:697:"<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13.415px" height="16.333px" viewBox="0 0 13.415 16.333" enable-background="new 0 0 13.415 16.333" xml:space="preserve">
+<path fill="#D2D6DB" d="M4.868,14.59c0,0.549-0.591,0.997-1.322,0.997H2.2c-0.731,0-1.322-0.448-1.322-0.997V1.618
+	c0-0.55,0.592-0.997,1.322-0.997h1.346c0.731,0,1.322,0.447,1.322,0.997V14.59z"></path>
+<path fill="#D2D6DB" d="M12.118,14.59c0,0.549-0.593,0.997-1.324,0.997H9.448c-0.729,0-1.322-0.448-1.322-0.997V1.619
+	c0-0.55,0.593-0.997,1.322-0.997h1.346c0.731,0,1.324,0.447,1.324,0.997V14.59z"></path>
+</svg>                                ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"16px";s:6:"height";s:4:"15px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"15px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"14px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:7:"#59c8ef";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:3;a:22:{s:5:"class";s:40:"mute-btn mute-btn-for-skin-avanti active";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:1840:"<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16.097px" height="15.72px" viewBox="0 -2.914 16.097 15.72" enable-background="new 0 -2.914 16.097 15.72" xml:space="preserve">
+<g id="Layer_1">
+	<g id="Layer_1_2_">
+		<g id="nyt_x5F_exporter_x5F_info" display="none">
+		</g>
+		<g id="Layer_1_1_">
+			<path fill="#D2D6DB" d="M4.998-2.126c-0.316,0.314-0.53,0.741-0.635,1.268L3.738,2.273c-0.177,0.883-0.89,2.212-1.524,2.847
+				c-1.162,1.162-1.162,3.054,0,4.216l1.404,1.405c1.164,1.162,3.055,1.162,4.219,0c0.634-0.633,1.965-1.346,2.845-1.521
+				l3.132-0.627c0.527-0.104,0.953-0.32,1.27-0.634c0.631-0.629,0.832-1.788-0.22-2.839L7.835-1.907
+				C6.785-2.959,5.629-2.759,4.998-2.126z M7.053,6.289C5.829,6.599,6.328,6.556,5.478,7.407c-0.388,0.388,0.387,0.388,0,0
+				l-0.481,0.37c-0.386-0.385-0.386,0.386,0,0c0.853-0.851,1.88-0.268,2.19-1.492L7.053,6.289z M8.651,5.585
+				c0.03,0.031,0.058,0.061,0.077,0.09C8.697,5.682,8.658,5.693,8.614,5.702l3.07,2.399L8.781,3.522l-0.06,0.554
+				C8.728,4.033,8.74,3.993,8.749,3.96c0.026,0.024,0.056,0.052,0.089,0.082L8.651,5.585z"></path>
+		</g>
+		<g id="nyt_x5F_exporter_x5F_info_1_" display="none">
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+	<path opacity="0.7" fill="#1F0C00" d="M2.739,12.234c-0.163,0.16-0.396,0.19-0.522,0.063l-1.275-1.274
+		c-0.126-0.127-0.099-0.361,0.064-0.521l11.11-11.112c0.162-0.163,0.396-0.19,0.521-0.064L13.912,0.6
+		c0.129,0.126,0.099,0.36-0.063,0.522L2.739,12.234z"></path>
+</g>
+<g id="Layer_3">
+	<path fill="#D2D6DB" d="M2.766,11.413c-0.149,0.149-0.326,0.216-0.394,0.146l-0.691-0.692c-0.069-0.068-0.004-0.244,0.146-0.394
+		L12.078,0.222c0.147-0.149,0.324-0.214,0.392-0.146l0.692,0.691c0.069,0.068,0.003,0.245-0.146,0.395L2.766,11.413z"></path>
+</g>
+</svg>
+                                ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"16px";s:6:"height";s:4:"15px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"auto";s:5:"right";s:3:"0px";s:6:"bottom";s:4:"13px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"15px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:7:"#59c8ef";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:4;a:22:{s:5:"class";s:37:"unmute-btn unmute-btn-for-skin-avanti";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:1325:"<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16.097px" height="15.72px" viewBox="0 -2.914 16.097 15.72" enable-background="new 0 -2.914 16.097 15.72" xml:space="preserve">
+<g id="Layer_1">
+	<g id="Layer_1_2_">
+		<g id="nyt_x5F_exporter_x5F_info" display="none">
+		</g>
+		<g id="Layer_1_1_">
+			<path fill="#D2D6DB" d="M4.998-2.126c-0.316,0.314-0.53,0.741-0.635,1.268L3.738,2.273c-0.177,0.883-0.89,2.212-1.524,2.847
+				c-1.162,1.162-1.162,3.054,0,4.216l1.404,1.405c1.164,1.162,3.055,1.162,4.219,0c0.634-0.633,1.965-1.346,2.845-1.521
+				l3.132-0.627c0.527-0.104,0.953-0.32,1.27-0.634c0.631-0.629,0.832-1.788-0.22-2.839L7.835-1.907
+				C6.785-2.959,5.629-2.759,4.998-2.126z M7.053,6.289C5.829,6.599,6.328,6.556,5.478,7.407c-0.388,0.388,0.387,0.388,0,0
+				l-0.481,0.37c-0.386-0.385-0.386,0.386,0,0c0.853-0.851,1.88-0.268,2.19-1.492L7.053,6.289z M8.651,5.585
+				c0.03,0.031,0.058,0.061,0.077,0.09C8.697,5.682,8.658,5.693,8.614,5.702l3.07,2.399L8.781,3.522l-0.06,0.554
+				C8.728,4.033,8.74,3.993,8.749,3.96c0.026,0.024,0.056,0.052,0.089,0.082L8.651,5.585z"></path>
+		</g>
+		<g id="nyt_x5F_exporter_x5F_info_1_" display="none">
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+<g id="Layer_3">
+</g>
+</svg>
+                                ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"16px";s:6:"height";s:4:"15px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"auto";s:5:"right";s:1:"0";s:6:"bottom";s:4:"13px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"15px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:7:"#59c8ef";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:5;a:22:{s:5:"class";s:30:"scrubbar scrubbar-for-skin-pro";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:503:"        <span class="scrubbar-bg" style="position: absolute; width: 100%; left:0; top: 0px; height: 100%; "></span>                                <span class="scrubbar-buffered" style="position: absolute; width: 0%; left:0; top: 0px; height: 100%; "></span>                                <span class="scrubbar-prog" style="position: absolute; width: 0%; left:0; top: 0px; height: 100%;"></span>
+                                <span class="scrubbar-box" style=""></span>
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"100%";s:6:"height";s:3:"7px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"45px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"16px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"15px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:2:"on";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:7:"#59c8ef";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}}}

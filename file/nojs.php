@@ -1,0 +1,1 @@
+<h1>This site is best viewed with Javascript. Please enable Javascript on your browser.</h1>

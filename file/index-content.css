@@ -1,0 +1,204 @@
+.fileInput { display: none; }
+    .content_iframe{
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      padding-top: 56.25%; 
+    }
+    .content_iframe iframe{
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .pdf_header{ 
+      display: flex;
+      flex-wrap: wrap; 
+      position: absolute; 
+      left: 0; 
+      width: 100%; 
+      z-index: 1;
+    }
+    .pdf_header_left{ 
+      width: 50%; 
+      background: linear-gradient(180deg, rgba(31,68,217,1) 0%, rgba(0,153,227,1) 43%, rgba(85,221,249,1) 100%); 
+      padding:10px 0;  
+      display: inline-flex; 
+      flex-wrap: wrap; 
+      justify-content: center;
+    }
+    .pdf_header_right{ 
+      width: 50%; 
+      background: linear-gradient(180deg, rgb(37 66 185) 0%,  rgba(85,221,249,1) 100%); 
+      display: inline-flex; 
+      flex-wrap: wrap; 
+      color:#fff; 
+      justify-content: center;     
+      align-items: center;
+    }
+    .pdf_header_right p{ 
+      color: #000; 
+      width: 100%; 
+      text-align:center; 
+      font-size: 20px;  
+    }
+     .pdf_header_right h1 {
+        color: #fff;
+    }
+
+    @import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.wrapper {
+  position: relative;
+  height: 12em;
+}
+
+.countdown-container {
+  font-family: Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 100%;
+}
+
+.countdown {
+  display: flex;
+  transform-style: preserve3d;
+  perspective: 500px;
+  height: 10rem;
+  width: 64em;
+  margin: 0 auto;
+}
+.countdown.remove {
+  animation: hide-countdown 1s cubic-bezier(0, 0.9, 0.56, 1.2) forwards;
+  overflow: hidden;
+}
+
+.number, .separator {
+  display: block;
+  color: #333;
+  height: 10rem;
+  font-size: 10rem;
+  position: relative;
+  line-height: 10rem;
+  text-align: center;
+  width: 100%;
+}
+
+.separator {
+  margin: 0;
+  width: 2rem;
+}
+
+.new, .old, .current {
+  color: #333;
+  position: absolute;
+  border-radius: 1rem;
+  height: 10rem;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+.new {
+  animation: show-new 0.4s cubic-bezier(0, 0.9, 0.5, 1.2) forwards;
+}
+
+.old {
+  animation: hide-old 2s cubic-bezier(0, 0.9, 0.56, 1.2) forwards;
+}
+
+.countdown section {
+  position: relative;
+}
+
+#js-days:after, #js-hours:after, #js-minutes:after, #js-seconds:after {
+  content: "DAYS";
+  position: absolute;
+  text-align: center;
+  left: 0;
+  right: 0;
+  bottom: -80px;
+  font-size: 12px;
+}
+#js-hours:after {
+  content: "HOURS";
+}
+#js-minutes:after {
+  content: "MINUTES";
+}
+#js-seconds:after {
+  content: "SECONDS";
+}
+@keyframes hide-countdown {
+  to {
+    height: 0;
+    overflow: hidden;
+  }
+}
+@keyframes show-new {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) translateY(-2rem) scale(0.8) rotateX(-20deg);
+  }
+  100% {
+    transform: translate(-50%, -50%);
+  }
+}
+@keyframes hide-old {
+  0% {
+    transform: translate(-50%, -50%);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) translateY(-5rem) scale(0.5) rotateX(-75deg);
+  }
+}
+article.countdown{
+  width: 250px;
+  height: auto;
+}
+.countdown .number, .countdown .separator{
+  height: auto;
+    font-size: 30px; line-height: normal;
+}
+
+
+.countdown .new, .countdown .old, .countdown .current{
+  height: auto;
+  left: 0;
+    top: 0;
+    transform: unset;
+}
+.countdown .old{
+margin:0px 0 0 -2px;
+    }
+.countdown .new{ 
+  margin:17px 0 0 27px;
+}
+
+.countdown #js-days:after, .countdown #js-hours:after, .countdown #js-minutes:after, .countdown #js-seconds:after {
+    position: static;
+     margin: 40px 0 0;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.pdf_header_right a{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pdf_header_right a .wrapper{ height: auto;}
+section.countdown-container{ position: static; transform: unset;}
+.pdf_header_right p{ margin:20px 0 0;}

@@ -1,0 +1,143 @@
+a:1:{s:4:"bars";a:12:{i:0;a:22:{s:5:"class";s:11:"controls-bg";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:0:"";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"100%";s:6:"height";s:4:"30px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:1:"0";s:5:"right";s:4:"auto";s:6:"bottom";s:1:"0";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:21:"rgba(50, 50, 50, 0.5)";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:1;a:22:{s:5:"class";s:34:"play-btn play-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:455:"<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.455px" height="12.352px" viewBox="0 0 10.455 12.352" enable-background="new 0 0 10.455 12.352" xml:space="preserve">
+<g>
+	<path fill="#D2D6DB" d="M9.93,5.973c0.468,0.29,0.457,0.748-0.023,1.016l-8.709,4.874c-0.48,0.269-0.873,0.038-0.873-0.512V1
+		c0-0.55,0.382-0.762,0.849-0.472L9.93,5.973z"></path>
+</g>
+</svg>
+
+";s:13:"position_type";s:8:"absolute";s:5:"width";s:2:"10";s:6:"height";s:2:"16";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"13px";s:5:"right";s:4:"auto";s:6:"bottom";s:3:"9px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:7:"#5c3d3d";s:11:"hover_color";s:7:"#c31818";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:4:"test";}i:2;a:22:{s:5:"class";s:36:"pause-btn pause-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:476:"<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.455px" height="12.352px" viewBox="0 0 10.455 12.352" enable-background="new 0 0 10.455 12.352" xml:space="preserve">
+<g>
+	<rect x="0.825" y="0.446" fill="#D2D6DB" width="3.076" height="11.458"></rect>
+</g>
+<g>
+	<rect x="6.502" y="0.447" fill="#D2D6DB" width="3.076" height="11.458"></rect>
+</g>
+</svg>
+
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:0:"";s:6:"height";s:0:"";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"14px";s:5:"right";s:4:"auto";s:6:"bottom";s:3:"4px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:7:"#5c3d3d";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:3;a:22:{s:5:"class";s:46:"fullscreen-btn fullscreen-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:889:"<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.031px" height="9.955px" viewBox="0 0 10.031 9.955" enable-background="new 0 0 10.031 9.955" xml:space="preserve">
+<rect x="0.359" y="0.291" fill="#D2D6DB" width="1.391" height="2.983"></rect>
+<rect x="0.359" y="0.291" fill="#D2D6DB" width="2.983" height="1.391"></rect>
+<rect x="1.965" y="0.212" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.031 2.631)" fill="#D2D6DB" width="1.391" height="4.696"></rect>
+<rect x="8.312" y="6.557" fill="#D2D6DB" width="1.391" height="2.983"></rect>
+<rect x="6.72" y="8.149" fill="#D2D6DB" width="2.983" height="1.391"></rect>
+<rect x="6.707" y="4.923" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 17.778 7.1781)" fill="#D2D6DB" width="1.391" height="4.696"></rect>
+</svg>
+
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:0:"";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"auto";s:5:"right";s:4:"17px";s:6:"bottom";s:4:"11px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"14px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:7:"#5c3d3d";s:11:"hover_color";s:7:"#c31818";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:4;a:22:{s:5:"class";s:32:"vol-btn vol-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:878:"                            <span class="vol-btn--icon">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="7.375px" height="9.906px" viewBox="0 0 7.375 9.906" enable-background="new 0 0 7.375 9.906" xml:space="preserve">
+<polygon fill="#D2D6DB" points="7.375,9.906 3.469,7.797 3.469,2.109 7.375,0 "></polygon>
+<polygon fill="#D2D6DB" points="3.719,7.797 0,7.797 0,2.156 3.719,2.109 "></polygon>
+</svg>
+
+
+</span>
+                                <span class="vol-bar-con" style="width: 27px; height: 6px; position:absolute; right: 0; top:6px;">
+                                    <span class="vol-bar-bg" style=""></span>
+                                    <span class="vol-bar-active" style="width: 100%;"></span>
+                                </span>
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"45px";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"auto";s:5:"right";s:4:"53px";s:6:"bottom";s:4:"11px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"10px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:7:"#593a3a";s:11:"hover_color";s:7:"#9c1616";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:5;a:22:{s:5:"class";s:34:"scrubbar scrubbar-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:611:"                                <span class="scrubbar-bg" style="position: absolute; width: 100%; left:0; top: 4px; height: 6px; "></span>
+                                <span class="scrubbar-buffered" style="position: absolute; width: 0%; left:0; top: 4px; height: 6px; "></span>
+                                <span class="scrubbar-prog" style="position: absolute; width: 0%; left:0; top: 4px; height: 6px; "></span>
+                                <span class="scrubbar-box" style=""></span>
+                                <span class="scrubbar-box-prog" style=""></span>
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:5:"300px";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"34px";s:5:"right";s:4:"auto";s:6:"bottom";s:3:"8px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"10px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:2:"on";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:7:"#4c3434";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:6;a:22:{s:5:"class";s:30:"hd-btn hd-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:1505:"                            <span class="hd-btn--icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11.047px" height="9.955px" viewBox="-1.016 0 11.047 9.955" enable-background="new -1.016 0 11.047 9.955" xml:space="preserve">
+<g id="Layer_3">
+	<g>
+		<path fill="#D2D6DB" d="M9.579,2.618c-0.081-0.05-0.173-0.076-0.266-0.076c-0.077,0-0.156,0.017-0.227,0.053L7.796,3.24V3.048
+			c0-0.836-0.681-1.518-1.517-1.518H0.714c-0.837,0-1.518,0.681-1.518,1.518v4.046c0,0.838,0.681,1.519,1.518,1.519h5.565
+			c0.836,0,1.517-0.681,1.517-1.519V6.9l1.291,0.646c0.07,0.037,0.149,0.055,0.227,0.055c0.093,0,0.185-0.026,0.266-0.075
+			c0.149-0.093,0.24-0.255,0.24-0.432V3.048C9.819,2.873,9.729,2.71,9.579,2.618z M1.727,5.831c-0.42,0-0.76-0.34-0.76-0.76
+			c0-0.42,0.339-0.759,0.76-0.759c0.417,0,0.758,0.339,0.758,0.759C2.485,5.491,2.144,5.831,1.727,5.831z"></path>
+	</g>
+</g>
+<g id="Layer_2">
+	<text transform="matrix(1 0 0 1 3.4883 5.7695)" fill="#E4C000" font-family="Open Sans" font-size="2.1451">HD</text>
+</g>
+</svg>
+
+
+</span>
+
+                                <span class="hd-btn--options">
+                                    <ul class="hd-options">
+                                        <li class="hd-options--option">hd</li>
+                                        <li class="hd-options--option">sd</li>
+                                    </ul>
+                                </span>
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"14px";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:4:"auto";s:5:"right";s:4:"88px";s:6:"bottom";s:4:"10px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:3:"7px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:7:"#643f3f";s:11:"hover_color";s:7:"#d11010";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:7;a:22:{s:5:"class";s:42:"download-btn download-btn-for-skin-default";s:8:"nodename";s:1:"A";s:4:"href";s:30:"{{jsreplace_arg_downloadlink}}";s:9:"innerhtml";s:913:"                            <span class="download-btn--icon">
+<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.031px" height="9.955px" viewBox="0 0 10.031 9.955" enable-background="new 0 0 10.031 9.955" xml:space="preserve">
+<rect x="4.723" y="4.516" transform="matrix(-0.7072 -0.707 0.707 -0.7072 5.0959 16.188)" fill="#D2D6DB" width="2.353" height="5.045"></rect>
+<rect x="1.473" y="5.862" transform="matrix(-0.7073 -0.7069 0.7069 -0.7073 1.8471 14.8424)" fill="#D2D6DB" width="5.046" height="2.354"></rect>
+<rect x="3.734" y="0.217" fill="#D2D6DB" width="2.354" height="7.944"></rect>
+</svg>
+
+
+</span>
+
+                                <span class="download-btn--sidenote">
+                                    You can have a link here. For example to download the video.
+                                </span>
+";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"14px";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:5:"586px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"10px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:3:"7px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:7:"#6b4747";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:8;a:22:{s:5:"class";s:38:"social-btn social-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:2280:"                            <span class="social-btn--icon">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.031px" height="9.955px" viewBox="0 0 10.031 9.955" enable-background="new 0 0 10.031 9.955" xml:space="preserve">
+<g>
+	<path fill="#D2D6DB" d="M9.389,2.791L7.238,0.63C6.836,0.224,6.131,0.22,5.721,0.627C5.613,0.732,5.531,0.861,5.495,0.965
+		c-0.35,0.732-0.728,1.19-1.211,1.465L4.167,2.487c-0.521,0.26-1.228,0.526-2.536,0.526c-0.143,0-0.28,0.028-0.412,0.082
+		C0.96,3.203,0.748,3.414,0.639,3.676c-0.107,0.261-0.107,0.56,0,0.819C0.695,4.63,0.773,4.748,0.872,4.846L2.61,6.583L0.557,9.46
+		l2.875-2.054L5.166,9.14c0.1,0.103,0.218,0.182,0.352,0.236C5.652,9.435,5.789,9.46,5.932,9.46c0.141,0,0.277-0.027,0.409-0.083
+		C6.607,9.269,6.814,9.06,6.922,8.798c0.057-0.13,0.083-0.271,0.083-0.412c0-1.31,0.267-2.016,0.524-2.537
+		c0.268-0.533,0.736-0.938,1.48-1.295c0.145-0.057,0.273-0.138,0.381-0.247C9.809,3.886,9.805,3.205,9.389,2.791z M6.568,5.371
+		c-0.44,0.881-0.639,1.81-0.644,3.01l1.294-3.489c1.149,0-3.539-0.985-2.689-1.387l0.127-0.057c0.751-0.376,1.325-1.017,1.819-2.06
+		L3.328,4.415C2.328,4.895,6.943,4.618,6.568,5.371z"></path>
+</g>
+</svg>
+</span>
+                                <ul class="social-btn--options">
+
+                                    <li>
+                                        <iframe src="//www.facebook.com/plugins/like.php?href={{jsreplace_currurl}}&width=120&layout=button_count&action=like&show_faces=true&share=false&height=21&appId=269610766536363" scrolling="no" style="border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true" frameborder="0"></iframe>
+                                    </li>
+                                    <li>
+                                        <div class="g-plusone" data-size="medium"></div>
+                                    </li>
+                                    <li>
+                                        <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+                                    </li>
+                                    {{jsreplace_arg_othersocialicons}}
+                                </ul>
+
+                                ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"14px";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:5:"557px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"10px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:3:"7px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:7:"#624141";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:9;a:22:{s:5:"class";s:36:"embed-btn embed-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:1564:"                            <span class="embed-btn--icon">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.031px" height="9.955px" viewBox="0 0 10.031 9.955" enable-background="new 0 0 10.031 9.955" xml:space="preserve">
+<g>
+	<path fill="#D2D6DB" d="M5.828,8.339c-1.474,0-2.672-1.199-2.672-2.672c0-0.329-0.266-0.594-0.594-0.594
+		c-0.329,0-0.594,0.266-0.594,0.594c0,2.128,1.731,3.858,3.86,3.858c2.127,0,3.858-1.73,3.858-3.858S7.955,1.808,5.828,1.808
+		c-0.329,0-0.595,0.266-0.595,0.593c0,0.329,0.266,0.594,0.595,0.594c1.472,0,2.671,1.198,2.671,2.672
+		C8.499,7.14,7.3,8.339,5.828,8.339z"></path>
+	<g>
+		<g>
+			<path fill="#D2D6DB" d="M4.436,0.324c0.328,0,0.594,0.267,0.594,0.594S4.763,1.511,4.436,1.511H3.944H2.511l1.014,1.014
+				l2.43,2.429c0.231,0.232,0.231,0.609,0,0.84C5.843,5.905,5.694,5.967,5.534,5.967c-0.158,0-0.307-0.062-0.419-0.173l-2.43-2.43
+				L1.672,2.35v1.433v0.492c0,0.328-0.266,0.594-0.594,0.594c-0.327,0-0.594-0.267-0.594-0.594V0.324H4.436"></path>
+		</g>
+	</g>
+</g>
+</svg>
+</span>
+                                <span class="embed-btn--sidenote">
+                                    <textarea><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=110&layout=button_count&action=like&show_faces=true&share=false&height=21&appId=269610766536363" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"14px";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:5:"566px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"10px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:3:"6px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:7:"#724f4f";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:10;a:22:{s:5:"class";s:34:"btn-info btn-info-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:834:"                            <span class="btn-info--icon">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.031px" height="9.955px" viewBox="0 0 10.031 9.955" enable-background="new 0 0 10.031 9.955" xml:space="preserve">
+<g id="Layer_2">
+</g>
+<g id="Layer_3">
+	<g>
+		<path fill="#D2D6DB" d="M3.233,8.624c0.72,0.061,1.77-0.449,4.02-2.43c0.33-0.3,0.27,0.6,0.15,0.75c-0.15,0.15-3.3,3.42-5.13,2.13
+			c-0.96-0.659-0.57-2.28,0.69-4.05c1.021-1.5,1.59-2.25,1.8-2.4c0.24-0.18,0.75,0.42,0.48,0.81c-0.21,0.33-1.89,2.52-2.31,3.54
+			C2.483,7.995,2.603,8.564,3.233,8.624z M6.713,0.375c-0.479-0.24-1.05,0-1.29,0.48c-0.21,0.42-0.18,1.02,0.271,1.17
+			C6.623,2.354,7.522,0.735,6.713,0.375z"></path>
+	</g>
+</g>
+</svg>
+
+
+</span>
+                                ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"14px";s:6:"height";s:4:"14px";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"auto";s:4:"left";s:5:"565px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"10px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:3:"7px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:11;a:22:{s:5:"class";s:8:"logo-btn";s:8:"nodename";s:1:"A";s:4:"href";s:26:"{{jsreplace_arg_logolink}}";s:9:"innerhtml";s:39:" <img src="{{jsreplace_arg_logoimg}}"> ";s:13:"position_type";s:8:"absolute";s:5:"width";s:0:"";s:6:"height";s:0:"";s:13:"builder_align";s:26:"builder-align-bottom-right";s:3:"top";s:4:"10px";s:4:"left";s:4:"auto";s:5:"right";s:4:"10px";s:6:"bottom";s:4:"auto";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}}}

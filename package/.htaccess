@@ -1,0 +1,17 @@
+RewriteEngine On
+
+
+
+DirectoryIndex package/index.php
+
+
+
+RewriteRule ^([a-zA-Z0-9_-]{3,40})/?$ index\.php?file=$1 [L]
+
+
+
+RewriteRule ^([a-zA-Z0-9_-]{3,40})?$ index\.php?file=$1 [L]
+
+
+
+ErrorDocument 404 /404

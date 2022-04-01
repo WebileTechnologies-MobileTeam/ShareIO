@@ -1,0 +1,9 @@
+- To implement this plugin on your webpage, just use the set of files included in the Folder "Example". 
+
+- The Example folder uses minified version of the .js file.
+
+- For step by step implementation help, please go through the "Help" folder.
+
+-----x-----
+
+ 

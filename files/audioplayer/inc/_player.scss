@@ -1,0 +1,152 @@
+.audioplayer {
+  text-align: left;
+
+  .menu-description {
+    display: none;
+  }
+
+  &.time-total-visible {
+    .total-time:not(.a) {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+
+
+
+  .the-thumb-con {
+    position: relative;
+    .the-thumb {
+      position: relative;
+      height: 120px;
+      width: 100%;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+  }
+
+
+
+
+
+  &.preload-method-none, &.meta-loaded, &.cue-off {
+    .loading-svg:not(.ceva) {
+      display: none;
+    }
+  }
+
+  &.view-scrub-disabled{
+    .scrubbar{
+      pointer-events: none;
+    }
+  }
+
+
+  &.is-radio-type {
+    .curr-time, .total-time {
+      display: none !important;
+    }
+  }
+  .the-media {
+    pointer-events: none;
+    opacity: 0;
+    position: absolute;
+
+  }
+  .prev-btn, .next-btn {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: $size;
+    height: $size;
+    cursor: pointer;
+  }
+
+
+
+}
+
+
+
+
+body .audioplayer.scrubbar-loaded, .zoomsounds-external-scrubbar.scrubbar-loaded {
+  .ap-controls {
+  }
+
+  .scrubbar:not(.a) {
+    opacity: 1;
+  }
+
+  .curr-time {
+    opacity: 1;
+  }
+
+  .curr-time {
+    visibility: visible;
+  }
+}
+
+.audioplayer.scrubbar-loaded:not(.skin-wave-is-spectrum):not(.a) {
+  .scrub-bg {
+
+    transform: scaleY(1);
+  }
+
+}
+
+
+.con-playpause + .con-after-playpause {
+
+  margin-left: 5px;
+}
+
+.con-after-playpause + .meta-artist-con {
+  margin-left: 15px;
+}
+
+
+
+.audioplayer:not(.is-playing) {
+  .pausebtn {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.audioplayer{
+
+  &.design-animateplaypause{
+    .pausebtn,.playbtn {
+
+      $transition-property: opacity,visibility;
+      $transition-duration: 0.3s;
+      $transition-timing: ease-out;
+      @include apply_transition($transition-property, $transition-duration, $transition-timing);
+
+    }
+
+  }
+}
+
+
+.audioplayer.is-playing {
+
+
+  .con-playpause .pausebtn {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .con-playpause .playbtn {
+    visibility: hidden;
+    opacity: 0;
+  }
+}
+
+@import "player-variations/skin-wave_wrapper-bg-bellow";

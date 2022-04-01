@@ -1,0 +1,28 @@
+a:1:{s:4:"bars";a:5:{i:0;a:22:{s:5:"class";s:11:"controls-bg";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:0:"";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"100%";s:6:"height";s:4:"30px";s:13:"builder_align";s:25:"builder-align-bottom-left";s:3:"top";s:4:"auto";s:4:"left";s:3:"0px";s:5:"right";s:4:"auto";s:6:"bottom";s:1:"0";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:26:"rgba(50, 50, 50, 0.498039)";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:1;a:22:{s:5:"class";s:34:"play-btn play-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:455:"<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.455px" height="12.352px" viewBox="0 0 10.455 12.352" enable-background="new 0 0 10.455 12.352" xml:space="preserve">
+<g>
+	<path fill="#D2D6DB" d="M9.93,5.973c0.468,0.29,0.457,0.748-0.023,1.016l-8.709,4.874c-0.48,0.269-0.873,0.038-0.873-0.512V1
+		c0-0.55,0.382-0.762,0.849-0.472L9.93,5.973z"></path>
+</g>
+</svg>
+
+";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"10px";s:6:"height";s:4:"14px";s:13:"builder_align";s:25:"builder-align-bottom-left";s:3:"top";s:4:"auto";s:4:"left";s:4:"12px";s:5:"right";s:4:"auto";s:6:"bottom";s:3:"9px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:2;a:22:{s:5:"class";s:36:"pause-btn pause-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:476:"<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.455px" height="12.352px" viewBox="0 0 10.455 12.352" enable-background="new 0 0 10.455 12.352" xml:space="preserve">
+<g>
+	<rect x="0.825" y="0.446" fill="#D2D6DB" width="3.076" height="11.458"></rect>
+</g>
+<g>
+	<rect x="6.502" y="0.447" fill="#D2D6DB" width="3.076" height="11.458"></rect>
+</g>
+</svg>
+
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:0:"";s:6:"height";s:0:"";s:13:"builder_align";s:25:"builder-align-bottom-left";s:3:"top";s:4:"auto";s:4:"left";s:4:"12px";s:5:"right";s:4:"auto";s:6:"bottom";s:3:"5px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:3;a:22:{s:5:"class";s:46:"fullscreen-btn fullscreen-btn-for-skin-default";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:889:"<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="10.031px" height="9.955px" viewBox="0 0 10.031 9.955" enable-background="new 0 0 10.031 9.955" xml:space="preserve">
+<rect x="0.359" y="0.291" fill="#D2D6DB" width="1.391" height="2.983"></rect>
+<rect x="0.359" y="0.291" fill="#D2D6DB" width="2.983" height="1.391"></rect>
+<rect x="1.965" y="0.212" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.031 2.631)" fill="#D2D6DB" width="1.391" height="4.696"></rect>
+<rect x="8.312" y="6.557" fill="#D2D6DB" width="1.391" height="2.983"></rect>
+<rect x="6.72" y="8.149" fill="#D2D6DB" width="2.983" height="1.391"></rect>
+<rect x="6.707" y="4.923" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 17.778 7.1781)" fill="#D2D6DB" width="1.391" height="4.696"></rect>
+</svg>
+
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:0:"";s:6:"height";s:4:"14px";s:13:"builder_align";s:25:"builder-align-bottom-left";s:3:"top";s:4:"auto";s:4:"left";s:4:"auto";s:5:"right";s:4:"11px";s:6:"bottom";s:4:"11px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"14px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:3:"off";s:24:"absolute_right_calculate";s:2:"on";s:16:"background_color";s:7:"#dd7373";s:11:"hover_color";s:7:"#c054c4";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}i:4;a:22:{s:5:"class";s:30:"scrubbar scrubbar-for-skin-pro";s:8:"nodename";s:4:"SPAN";s:4:"href";s:0:"";s:9:"innerhtml";s:503:"        <span class="scrubbar-bg" style="position: absolute; width: 100%; left:0; top: 0px; height: 100%; "></span>                                <span class="scrubbar-buffered" style="position: absolute; width: 0%; left:0; top: 0px; height: 100%; "></span>                                <span class="scrubbar-prog" style="position: absolute; width: 0%; left:0; top: 0px; height: 100%;"></span>
+                                <span class="scrubbar-box" style=""></span>
+                            ";s:13:"position_type";s:8:"absolute";s:5:"width";s:4:"100%";s:6:"height";s:4:"10px";s:13:"builder_align";s:25:"builder-align-bottom-left";s:3:"top";s:4:"auto";s:4:"left";s:4:"32px";s:5:"right";s:4:"auto";s:6:"bottom";s:4:"12px";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:4:"15px";s:13:"margin_bottom";s:1:"0";s:23:"design_set_width_to_fit";s:2:"on";s:24:"absolute_right_calculate";s:3:"off";s:16:"background_color";s:11:"transparent";s:11:"hover_color";s:0:"";s:9:"font_size";s:2:"12";s:13:"extra_classes";s:0:"";}}}

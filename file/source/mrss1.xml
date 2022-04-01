@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version = "2.0" xmlns:media = "http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Sample Feed</title>
+        <link/>
+        <description>Sample Media RSS</description>
+        <item>
+            <title>Item 1</title>
+            <description>Sample Media RSS Item 1</description>
+            <media:group>
+                <media:content url="http://playertest.longtailvideo.com/bunny.mp4"></media:content>
+                <media:thumbnail url="http://playertest.longtailvideo.com/bunny.jpg"></media:thumbnail>
+            </media:group>
+        </item>
+        <item>
+            <title>Item 2</title>
+            <description>Sample Media RSS Item 2</description>
+            <media:group>
+            <media:content
+                    url = "img/full1.png"
+                    type = "image/jpeg"
+                    medium = "image"
+                    duration = "10">
+            </media:content>
+            </media:group>
+        </item>
+        <item>
+            <title>Item 3</title>
+            <description>Sample Media RSS Item 3</description>
+            <media:group>
+            <media:content
+                    url = "img/full2.png"
+                    type = "image/jpeg"
+                    medium = "image"
+                    duration = "10">
+            </media:content>
+            </media:group>
+        </item>
+        <item>
+            <title>Item 4</title>
+            <description>Sample Media RSS Item 4</description>
+            <media:group>
+            <media:content
+                    url = "img/full3.png"
+                    type = "image/jpeg"
+                    medium = "image"
+                    duration = "10">
+            </media:content>
+            </media:group>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Zoom Video Player - Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+
+    <!--[if lt IE 9]><script src="../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <script>
+        zoombox_settings = {
+        }
+    </script>
+</head>
+<body>
+
+
+<!--
+
+rtmp://108.168.206.90:1935/cdn/
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+video/test.m4v
+https://www.youtube.com/embed/JfvxAgDyDWQ
+http://192.168.0.127:1935/live/livestream/playlist.m3u8
+
+-->
+<!--<div id="mainplayer" class="zoomvideoplayer skin-default auto-init " data-source="livestream"  data-options='{settings_rtmpServer:"rtmp://192.168.0.127:1935/live", settings_rtmp_live:"on"}' data-sourcehsl="http://108.168.206.90:1935/cdn/playlist.m3u8" >-->
+
+
+
+
+<!--</div>-->
+
+
+<div style="max-width: 700px; margin: 0 auto;">
+
+
+    <!--<div id="mainplayer2" class="zoomvideoplayer skin-default auto-init " data-source="inovasd"  data-options='{settings_rtmpServer:"rtmp://serverstreamgroup.biz:1935/inovasd", settings_rtmp_live: "on", autoplay:"on", design_hideScrubBoxProg:"on" }' data-sourcehsl="http://serverstreamgroup.biz:1935/inovasd/inovasd/playlist.m3u8"  >-->
+        <!--</div>-->
+<style>
+    .zoomvideoplayer .custom-color-hover-fill:hover path,.zoomvideoplayer .custom-color-hover-fill:hover polygon,.zoomvideoplayer .custom-color-hover-fill:hover rect{
+
+
+        fill: #ffff00!important;
+
+    }
+    .zoomvideoplayer .custom-color-bg{
+
+
+        background-color: #ffff00!important;
+
+    }
+
+    .zoomvideoplayer.skin-pro .custom-color-bg{
+
+            background-color: transparent!important;
+
+    }
+</style>
+
+    <div id="mainplayer" class="zoomvideoplayer skin-pro auto-init animate-height" data-source="video/test.m4v"  data-options='{ cue: "off", autoplay: "on", settings_otherSocialIcons:"", settings_suggestedQuality: "large", settings_enableAutoHide:"off",
+                design_attachTotalTimeAfterScrub: "off",
+                design_hideScrubBoxProg: "on"
+                , responsive_ratio: "detect"
+                ,design_specialContainer: "laptop"}'  data-arg_downloadlink="http://digitalzoomstudio.net" data-arg_logoimg="img/logo.png" data-thumbnaildir="" data-cover="img/f1.jpg" data-ad_array='[{"source":"http://zoomthe.me/soundportal/","type":"iframe","sourceogg":"video/test.m4v","ad_type":"video","ad_time":"3","ad_skip_delay":"5","ad_link":"http://google.com"},{"source":"http://zoomthe.me/soundportal/","type":"iframe","sourceogg":"video/test.m4v","ad_type":"video","ad_time":"6","ad_skip_delay":"5","ad_link":"http://google.com"},{"source":"video/test.m4v","sourceogg":"video/advideo.ogv","ad_type":"video","ad_time":"10","ad_skip_delay":"25","ad_link":"http://google.com"}]'>
+
+        <div class="dzstag-tobe" data-starttime="0" data-endtime="2" data-left="100" data-top="50" data-width="80" data-height="50">this is another tag
+        </div>
+        <div class="dzstag-tobe" data-starttime="12" data-endtime="15" data-left="200" data-top="50" data-width="70" data-height="70" data-link="http://google.com">this a tag you set
+        </div>
+
+</div>
+
+
+<link rel='stylesheet' type="text/css" href="zoomplayer/zoomplayer.css"/>
+<script src="zoomplayer/zoomplayer.js"></script>
+<!--<script src="zoomplayer/html2canvas.min.js"></script>-->
+
+
+</body>
+</html>

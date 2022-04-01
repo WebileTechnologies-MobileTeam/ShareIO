@@ -1,0 +1,46 @@
+<ifModule mod_headers.c>
+Header always set Content-Security-Policy "upgrade-insecure-requests;"
+</IfModule>
+
+AuthUserFile /www/wwwroot/contentshare.me/.htpasswd
+AuthName "Members Only"
+AuthType Basic
+
+SetEnvIf Request_URI "^/file/*" allow
+SetEnvIf Request_URI "^/include/*" allow
+SetEnvIf Request_URI "^/css/*" allow 
+SetEnvIf Request_URI "^/js/*" allow 
+SetEnvIf Request_URI "^/Cube-Countdown/*" allow 
+SetEnvIf Request_URI "^/images/*" allow 
+SetEnvIf Request_URI "^/font/*" allow
+SetEnvIf Request_URI "/favicon.ico" allow
+SetEnvIf Request_URI "/payment.php" allow
+SetEnvIf Request_URI "/chk-payment-response.php" allow
+SetEnvIf Request_URI "/chk-payment.php" allow
+SetEnvIf Request_URI "/chk-package-payment-response.php" allow
+SetEnvIf Request_URI "/chk-package-payment.php" allow
+SetEnvIf Request_URI "^/Image-component/*" allow
+SetEnvIf Request_URI "^/upload/*" allow
+SetEnvIf Request_URI "^/pdf/*" allow
+SetEnvIf Request_URI "^/package/*" allow
+SetEnvIf Request_URI "^/dashboard/*" allow
+SetEnvIf Request_URI "^/Twitter/*" allow
+SetEnvIf Request_URI "^/facebook/*" allow
+SetEnvIf Request_URI "^/linkedin/*" allow
+SetEnvIf Request_URI "^/hotmail/*" allow
+SetEnvIf Request_URI "/google_login.php" allow
+SetEnvIf Request_URI "^/Tata-notification/*" allow
+Order allow,deny
+Require valid-user
+Allow from env=allow
+Deny from env=!allow
+Satisfy any
+
+DirectoryIndex dashboard.php
+<FilesMatch "SystemAdmin.php">
+	AuthName "Member Only"
+	AuthType Basic
+	AuthUserFile /www/wwwroot/contentshare.me/.htpasswdadmin
+	require valid-user
+</FilesMatch>
+
